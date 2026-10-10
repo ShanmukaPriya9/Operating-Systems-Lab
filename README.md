@@ -3,7 +3,7 @@
 **Institution:** VNR Vignana Jyothi Institute of Engineering and Technology (VNRVJIET)  
 **Laboratory:** OPERATING SYSTEMS  
 **Student Roll No:** 25071A6227  
-📄 **Lab Manual Document:** [OS_27_REC.pdf](./OS_27_REC.pdf)  
+📄 **Lab Record PDF:** [OS_27_REC.pdf](./OS_27_REC.pdf)  
 
 ---
 
